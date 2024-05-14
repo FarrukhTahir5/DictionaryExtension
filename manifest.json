@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Dictionary Extension",
+    "version": "1.0",
+    "description": "Simple Word Definition Finder",
+    "permissions": []
+    ,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icon.jpg"
+        }
+    }
+}
